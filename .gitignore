@@ -238,6 +238,16 @@ public class QuestionLibrary {
             "This part of the plant absorbs energy from the sun.",
             "This part of the plant attracts bees, butterflies and hummingbirds.",
             "The _______ holds the plant upright.",
+            "Question5.",
+            "Question6.",
+            "Question7.",
+            "Question8.",
+            "Question9.",
+            "Question10.",
+              
+            
+            
+         
 
 
 
@@ -264,7 +274,7 @@ public class QuestionLibrary {
 
 
 
-    private String mCorrectAnswers[] = {"Roots", "Leaves", "Flower", "Stem", "ball","test", "cake", "water", "gem", "milk"};
+    private String mCorrectAnswers[] = {"Roots", "Leaves", "Flower", "Stem", "ball","test", "cake", "water", "gem", "teste54"};
 
 
 
